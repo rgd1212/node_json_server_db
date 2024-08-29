@@ -1,0 +1,70 @@
+{
+  "profesores": [
+    {
+      "nombre": "Rodrigo",
+      "apellido": "Gonzales",
+      "materia": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "React"
+        },
+        {
+          "nombre": "JavaScript"
+        }
+      ],
+      "id": "2df0"
+    },
+    {
+      "id": "473a",
+      "nombre": "Estenban",
+      "apellido": "Cruz",
+      "materia": [
+        {
+          "nombre": "Astro"
+        },
+        {
+          "nombre": "Java"
+        },
+        {
+          "nombre": "Postgres"
+        }
+      ]
+    }
+  ],
+  "Alumnos": [
+    {
+      "nombre": "Juan",
+      "apellido": "Guzman",
+      "promedio": 8.2,
+      "id": "7e70"
+    },
+    {
+      "nombre": "Victor",
+      "apellido": "Duchen",
+      "promedio": 7,
+      "id": "1243"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS",
+      "duracion": "7",
+      "dificultad": "Intermedia",
+      "id": "6995"
+    },
+    {
+      "nombre": "React",
+      "duracion": "8",
+      "dificultad": "Intermedia",
+      "id": "cd9f"
+    },
+    {
+      "nombre": "Angular17",
+      "duracion": "9",
+      "dificultad": "Alta",
+      "id": "d6b2"
+    }
+  ]
+}
